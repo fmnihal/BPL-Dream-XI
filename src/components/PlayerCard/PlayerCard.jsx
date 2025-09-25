@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { User, Flag } from 'lucide-react';
+import { toast } from 'react-toastify';
 
 const PlayerCard=({player, balance, setBalance, purchasedPlayers, setPurchasedPlayers})=>{
     const [isSelected, setIsSelected]= useState(false);
@@ -35,13 +36,17 @@ const PlayerCard=({player, balance, setBalance, purchasedPlayers, setPurchasedPl
                     </div>
                     <div className="card-actions">
                         <button disabled={isSelected} onClick={()=>{
+                            if(purchasedPlayers.length==6){
+                                toast('6 players already elected');
+                                return;
+                            }
                             if(balance>= player.price){
                                 setBalance(balance- player.price);
                                 setIsSelected(!isSelected);
                                 setPurchasedPlayers([...purchasedPlayers, player]);
                             }
                             else{
-                                alert(`You can't spend more coins than you have!!!`);
+                                toast(`You can't spend more coins than you have!!!`);
                             }
                         }} className="btn">{isSelected? "Selected" : "Choose Player"}</button>
                     </div>
