@@ -1,0 +1,122 @@
+[
+{
+"playerImg": "https://media.assettype.com/freepressjournal/2025-01-11/bneo3bt5/Tamim-Iqbal.jpg?rect=0%2C0%2C3900%2C2194&w=1200&auto=format%2Ccompress&ogImage=true",
+"playerName": "Tamim Iqbal",
+"playerCountry": "Bangladesh",
+"playerRole": "Batsman",
+"rating": 9.3,
+"battingStyle": "Left-handed Bat",
+"bowlingStyle": "Right-arm Offbreak",
+"price": "500000"
+},
+{
+"playerImg": "https://thereport.live/media/imgAll/2024November/sh-(1)-20241130092258.jpg",
+"playerName": "Shakib Al Hasan",
+"playerCountry": "Bangladesh",
+"playerRole": "All-Rounder",
+"rating": 9.5,
+"battingStyle": "Left-handed Bat",
+"bowlingStyle": "Slow Left-arm Orthodox",
+"price": "550000"
+},
+{
+"playerImg": "https://www.zapcricket.com/cdn/shop/articles/WhatsApp_Image_2024-01-25_at_07.52.26.webp?v=1706153552",
+"playerName": "Chris Gayle",
+"playerCountry": "West Indies",
+"playerRole": "Batsman",
+"rating": 9.2,
+"battingStyle": "Left-handed Bat",
+"bowlingStyle": "Right-arm Offbreak",
+"price": "450000"
+},
+{
+"playerImg": "https://www.bssnews.net/assets/news_photos/2022/03/04/image-48342-1646396593.jpg",
+"playerName": "Mushfiqur Rahim",
+"playerCountry": "Bangladesh",
+"playerRole": "Wicketkeeper-Batsman",
+"rating": 8.9,
+"battingStyle": "Right-handed Bat",
+"bowlingStyle": "None",
+"price": "450000"
+},
+{
+"playerImg": "https://p.imgci.com/db/PICTURES/CMS/223900/223989.6.jpg",
+"playerName": "Mashrafe Mortaza",
+"playerCountry": "Bangladesh",
+"playerRole": "Bowler",
+"rating": 8.5,
+"battingStyle": "Right-handed Bat",
+"bowlingStyle": "Right-arm Fast-Medium",
+"price": "300000"
+},
+{
+"playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tTUo48y_f-lNMWKoQm9QxLYTWvMuiFNfpQ&s",
+"playerName": "Liton Das",
+"playerCountry": "Bangladesh",
+"playerRole": "Wicketkeeper-Batsman",
+"rating": 9.0,
+"battingStyle": "Right-handed Bat",
+"bowlingStyle": "None",
+"price": "420000"
+},
+{
+"playerImg": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_800,q_50/lsci/db/PICTURES/CMS/404900/404983.jpg",
+"playerName": "Mohammad Rizwan",
+"playerCountry": "Pakistan",
+"playerRole": "Wicketkeeper-Batsman",
+"rating": 9.4,
+"battingStyle": "Right-handed Bat",
+"bowlingStyle": "None",
+"price": "520000"
+},
+{
+"playerImg": "https://www.wisden.com/static-assets/waf-images/ce/62/ed/16-9/BQeG5rgj9f.png?v=23.07&w=600",
+"playerName": "Babar Azam",
+"playerCountry": "Pakistan",
+"playerRole": "Batsman",
+"rating": 9.6,
+"battingStyle": "Right-handed Bat",
+"bowlingStyle": "None",
+"price": "600000"
+},
+{
+"playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5fnA1rqqFrPxksQVw_iOIvciqUaT4kjbXg&s",
+"playerName": "Towhid Hridoy",
+"playerCountry": "Bangladesh",
+"playerRole": "Batsman",
+"rating": 8.8,
+"battingStyle": "Right-handed Bat",
+"bowlingStyle": "Right-arm Offbreak",
+"price": "350000"
+},
+{
+"playerImg": "https://static.cricbuzz.com/a/img/v1/i1/c369910/i-am-really-enjoying-my-bowling-at-the-moment-shoriful.jpg?d=low&p=det",
+"playerName": "Shoriful Islam",
+"playerCountry": "Bangladesh",
+"playerRole": "Bowler",
+"rating": 9.1,
+"battingStyle": "Left-handed Bat",
+"bowlingStyle": "Left-arm Medium-fast",
+"price": "400000"
+},
+{
+"playerImg": "https://www.justnewsbd.com/np-uploads/content/images/2017December/8-1-20230124142552.jpg",
+"playerName": "Mahedi Hasan",
+"playerCountry": "Bangladesh",
+"playerRole": "All-Rounder",
+"rating": 8.6,
+"battingStyle": "Right-handed Bat",
+"bowlingStyle": "Right-arm Offbreak",
+"price": "330000"
+},
+{
+"playerImg": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_800,q_50/lsci/db/PICTURES/CMS/372700/372729.jpg",
+"playerName": "Afif Hossain",
+"playerCountry": "Bangladesh",
+"playerRole": "Batsman",
+"rating": 8.5,
+"battingStyle": "Left-handed Bat",
+"bowlingStyle": "Right-arm Offbreak",
+"price": "290000"
+}
+]
